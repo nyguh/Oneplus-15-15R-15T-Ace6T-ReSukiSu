@@ -7,7 +7,7 @@ on:
         type: choice
         description: "Target device"
         required: true
-        default: oneplus15
+        default: oneplus15r
         options:
           - oneplus15      # OnePlus 15 (sm8850)
           - oneplus15t     # OnePlus 15T (sm8850)
